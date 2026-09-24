@@ -3,7 +3,7 @@
 ### Projetos:
 Projeto 1 -  [[Repositório](https://github.com/renancardoso09-maker/proj1)] [[Página](https://renancardoso09-maker.github.io/proj1/)]
 
-Projeto 2 -  [[Repositório](https://github.com/renancardoso09-maker/proj2)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
+Projeto 2 -  [[Repositório](https://github.com/renancardoso09-maker/proj2)] [[Página](https://renancardoso09-maker.github.io/proj2/)]
 
 Projeto 3 -  [[Repositório](https://github.com/renancardoso09-maker/proj3)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
 
