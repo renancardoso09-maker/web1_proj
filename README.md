@@ -1,7 +1,7 @@
 # Desenvolvimento Web I
 ## Renan de Lima Cardoso S4T1
 ### Projetos:
-Projeto 1 -  [[Repositório](https://github.com/renancardoso09-maker/proj1)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
+Projeto 1 -  [[Repositório](https://github.com/renancardoso09-maker/proj1)] [[Página](https://renancardoso09-maker.github.io/proj1/)]
 
 Projeto 2 -  [[Repositório](https://github.com/renancardoso09-maker/proj2)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
 
