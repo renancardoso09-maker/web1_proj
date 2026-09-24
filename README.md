@@ -5,12 +5,12 @@ Projeto 1 -  [[Repositório](https://github.com/renancardoso09-maker/proj1)] [[P
 
 Projeto 2 -  [[Repositório](https://github.com/renancardoso09-maker/proj2)] [[Página](https://renancardoso09-maker.github.io/proj2/)]
 
-Projeto 3 -  [[Repositório](https://github.com/renancardoso09-maker/proj3)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
+Projeto 3 -  [[Repositório](https://github.com/renancardoso09-maker/proj3)] [[Página](https://renancardoso09-maker.github.io/proj3/)]
 
-Projeto 4 -  [[Repositório](https://github.com/renancardoso09-maker/proj4)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
+Projeto 4 -  [[Repositório](https://github.com/renancardoso09-maker/proj4)] [[Página](https://renancardoso09-maker.github.io/proj4/)]
 
-Projeto 5 -  [[Repositório](https://github.com/renancardoso09-maker/proj5)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
+Projeto 5 -  [[Repositório](https://github.com/renancardoso09-maker/proj5)] [[Página](https://renancardoso09-maker.github.io/proj5/)]
 
-Projeto 6 -  [[Repositório](https://github.com/renancardoso09-maker/proj6)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
+Projeto 6 -  [[Repositório](https://github.com/renancardoso09-maker/proj6)] [[Página](https://renancardoso09-maker.github.io/proj6/)]
 
-Projeto 7 -  [[Repositório](https://github.com/renancardoso09-maker/proj7)] [[Página](https://renancardoso09-maker.github.io/atividade1/)]
+Projeto 7 -  [[Repositório](https://github.com/renancardoso09-maker/proj7)] [[Página](https://renancardoso09-maker.github.io/proj7/)]
